@@ -1,7 +1,7 @@
 ---
 name: swanntools
 languages: Go + Lua
-dates: January 2017 - Current
+dates: January 2017 - September 2017
 links:
     - url: https://github.com/kz/swanntools
       text: GitHub (Source Code)
