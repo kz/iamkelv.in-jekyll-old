@@ -1,7 +1,5 @@
 # iamkelv.in
 
-[ ![Codeship Status for kz/iamkelv.in](https://app.codeship.com/projects/af0d93a0-3b5a-0135-76f0-46ceed86863a/status?branch=master)](https://app.codeship.com/projects/228750)
-
 This is the repository for my site (built in Jekyll), [https://iamkelv.in/](https://iamkelv.in/).
 
 ## Features
